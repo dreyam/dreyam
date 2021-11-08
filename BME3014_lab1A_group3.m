@@ -3,6 +3,8 @@
 % Group number: 3
 % Group members: Allie Smith, Crystal Murray, Dreya Martin
 
+% edit in new branch??
+
 %% DEFINE INPUTS
 % (1) Set the filename here to match your baseline file
 % (2) Set the 'Fs' variable to match your sampling frequency in Hz
